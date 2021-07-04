@@ -13,6 +13,8 @@ The other portfolio shows the knowledge and skills I have recently taught myself
 to potential employers how capable I am of using similar RDBMS's and visualisation software. This portfolio includes a PDF which explains
 the portfolio, a limk to my Tableau web page and finally an SQL script.
 
+Should you wish to contact me please email me at: tliebermann.33@gmail.com
+
 <!---
 TimLieb/TimLieb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
