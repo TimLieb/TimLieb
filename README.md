@@ -7,7 +7,7 @@ In order to find such an apprenticeship I've created two portfolios to demonstra
 
 One portfolio shows my excel skills which I've accumulated as an accountant. I realise that data analysts typically try to limit
 their use of excel as it isn't well equiped for handling large quantities of data and it lacks functionality. Be this as it may I
-self taught myself a great deal of excel for use in my current job and would like you to see it as a demonstration of how 
+self taught myself a great deal of excel for use in my current job and would like you to see my portfolio as a demonstration of how 
 capable I am of learning advanced data manipulation techniques. This portfolio includes a powerpoint presentation and three spreadsheets.
 
 The other portfolio shows the knowledge and skills I have recently taught myself about SQL and Tableau for the purpose of demonstrating 
