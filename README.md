@@ -2,7 +2,8 @@ Hello and thank you for viewing my profile, my name is Tim and you're likely her
 
 I'm looking to become an apprentice data analyst but currently work as an accountant.
 
-In order to find such an apprentriceship I've created two portfolios to demonstrate my ability and potential.
+In order to find such an apprenticeship I've created two portfolios to demonstrate my ability and potential. Please view them in
+"Repositiories".
 
 One portfolio shows my excel skills which I've accumulated as an accountant. I realise that data analysts typically try to limit
 their use of excel as it isn't well equiped for handling large quantities of data and it lacks functionality. Be this as it may I
