@@ -14,6 +14,8 @@ The other portfolio shows the knowledge and skills I have recently taught myself
 to potential employers how capable I am of using similar RDBMS's and visualisation software. This portfolio includes a PDF which explains
 the portfolio, a link to my Tableau web page and finally an SQL script.
 
+You will find more specific details about each one in their respective repositories.
+
 Should you wish to contact me please email me at: tliebermann.33@gmail.com
 
 <!---
