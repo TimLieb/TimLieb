@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @TimLieb
-- 👀 I’m interested in becoming a Data Analyst
-- 🌱 I’m currently learning MySQL and Tableau
-- 📫 How to reach me: 
-email: tliebermann.33@gmail.com
+Hello and thank you for viewing my profile, my name is Tim.
+
+I'm looking to become an apprentice data analyst but currently work as an accountant.
+
+In order to find such an apprentriceship I've created two portfolios to demonstrate my ability and potential.
+
+One portfolio shows my excel skills which I've accumulated as an accountant. I realise that data analysts typically try to limit
+their use of excel as it isn't well equiped for handling large quantities of data and it lacks functionality. Be this as it may I
+self taught myself a great deal about it for use in my current job and would like you to see it more as a demonstration of how 
+capable I am of learning advanced data manipulation techniques. This portfolio includes a powerpoint presentation and three spreadsheets.
+
+The other portfolio shows the knowledge and skills I have recently taught myself about SQL and Tableau for the purpose of demonstrating 
+to potential employers how capable I am of using similar RDBMS's and visualisation software. This portfolio includes a PDF which explains
+the portfolio, a limk to my Tableau web page and finally an SQL script.
 
 <!---
 TimLieb/TimLieb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
