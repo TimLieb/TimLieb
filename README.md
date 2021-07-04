@@ -11,7 +11,7 @@ capable I am of learning advanced data manipulation techniques. This portfolio i
 
 The other portfolio shows the knowledge and skills I have recently taught myself about SQL and Tableau for the purpose of demonstrating 
 to potential employers how capable I am of using similar RDBMS's and visualisation software. This portfolio includes a PDF which explains
-the portfolio, a limk to my Tableau web page and finally an SQL script.
+the portfolio, a link to my Tableau web page and finally an SQL script.
 
 Should you wish to contact me please email me at: tliebermann.33@gmail.com
 
