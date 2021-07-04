@@ -1,4 +1,4 @@
-Hello and thank you for viewing my profile, my name is Tim.
+Hello and thank you for viewing my profile, my name is Tim and you're likely here because I put this link on my job application.
 
 I'm looking to become an apprentice data analyst but currently work as an accountant.
 
