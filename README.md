@@ -2,7 +2,7 @@ Thank you for viewing my profile. My name is Tim and you're likely here because 
 
 I'm aspiring to work in the field of Data Analytics and in order to pursue this, I've created a portfolio to demonstrate my ability and potential through my projects.
 
-SQL Portfolio is a project on manipulating and visualising sales data from a car manufacturer dataset. I have been able to develop my SQL and Tableau skills through this, alongside knowledge on RDBMS and data visualisation.
+[SQL Portfolio](https://github.com/TimLieb/Excel-Portfolio) is a project on manipulating and visualising sales data from a car manufacturer dataset. I have been able to develop my SQL and Tableau skills through this, alongside knowledge on RDBMS and data visualisation.
 
 Excel-Portfolio displays the Excel skills that I've accumulated as an accountant. This includes a sales ledger INDEX MATCH, a fixed asset register and a sheet used to aggregate totals.
 
