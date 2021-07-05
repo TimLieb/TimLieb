@@ -1,22 +1,13 @@
-Hello and thank you for viewing my profile, my name is Tim and you're likely here because I put this link on my job application.
+Thank you for viewing my profile. My name is Tim and you're likely here because I put this link on my job application.
 
-I'm looking to become an apprentice data analyst but currently work as an accountant.
+I'm aspiring to work in the field of Data Analytics and in order to pursue this, I've created a portfolio to demonstrate my ability and potential through my projects.
 
-In order to find such an apprenticeship I've created two portfolios to demonstrate my ability and potential. Please view them in
-"Repositiories".
+SQL Portfolio is a project on manipulating and visualising sales data from a car manufacturer dataset. I have been able to develop my SQL and Tableau skills through this, alongside knowledge on RDBMS and data visualisation.
 
-One portfolio shows my excel skills which I've accumulated as an accountant. I realise that data analysts typically try to limit
-their use of excel as it isn't well equiped for handling large quantities of data and it lacks functionality. Be this as it may I
-self taught myself a great deal of excel for use in my current job and would like you to see my portfolio as a demonstration of how 
-capable I am of learning advanced data manipulation techniques. This portfolio includes a powerpoint presentation and three spreadsheets.
+Excel-Portfolio displays the Excel skills that I've accumulated as an accountant. This includes a sales ledger INDEX MATCH, a fixed asset register and a sheet used to aggregate totals.
 
-The other portfolio shows the knowledge and skills I have recently taught myself about SQL and Tableau for the purpose of demonstrating 
-to potential employers how capable I am of using similar RDBMS's and visualisation software. This portfolio includes a PDF which explains
-the portfolio, a link to my Tableau web page and finally an SQL script.
+Email: tliebermann.33@gmail.com
 
-You will find more specific details about each one in their respective repositories.
-
-Should you wish to contact me please email me at: tliebermann.33@gmail.com
 
 <!---
 TimLieb/TimLieb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
