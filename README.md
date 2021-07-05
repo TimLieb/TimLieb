@@ -4,7 +4,7 @@ I'm aspiring to work in the field of Data Analytics and in order to pursue this,
 
 [SQL Portfolio](https://github.com/TimLieb/Excel-Portfolio) is a project on manipulating and visualising sales data from a car manufacturer dataset. I have been able to develop my SQL and Tableau skills through this, alongside knowledge on RDBMS and data visualisation.
 
-Excel-Portfolio displays the Excel skills that I've accumulated as an accountant. This includes a sales ledger INDEX MATCH, a fixed asset register and a sheet used to aggregate totals.
+[Excel-Portfolio](https://github.com/TimLieb/SQL-and-Tableau-Portfolio) displays the Excel skills that I've accumulated as an accountant. This includes a sales ledger INDEX MATCH, a fixed asset register and a sheet used to aggregate totals.
 
 Email: tliebermann.33@gmail.com
 
